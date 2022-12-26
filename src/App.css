@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+input[type="text"] {
+  padding:10px;
+  margin:10px;
+  border-radius: 2px;
+}
+.item{
+  border:2px solid lightblue;
+  border-radius:3px;
+  margin: 10px;
+  padding:5px;
+}
+.card{
+  margin: 0px;
+}
+.badge{
+  cursor: pointer;
+}
